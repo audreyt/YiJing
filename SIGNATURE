@@ -1,0 +1,32 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.06.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It would check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 956fbed92161c488cc3f1d477f042af3c7d1aeaa MANIFEST
+SHA1 3f74cdf58aca4e82fdb4d36fbe2b8bc60a593008 Makefile.PL
+SHA1 1f1ee33d16ad6a6a191104a321f5c53f1cfc3c4a README
+SHA1 263bd7c75a89744b7ab9dc4fb3bcdc801151d274 YiJing.pm
+SHA1 524721983e996e15b7e2902271cc8f2c8f594fd4 YiJing/0x0c.pod
+SHA1 821cbf9d8732cc5309ac7de62d666f1293890b3b YiJing/0x29.pod
+SHA1 833f1dbd735cd5435e99a581a3e21ace93538e78 YiJing/0x3b.pod
+SHA1 3a4928f8adf589ec0c74642b295ea23c48ede497 YiJing/0x3f.pod
+SHA1 aebce7649a01efa9142af16054cae89fa3e4964b t/YiJing.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (FreeBSD)
+
+iD8DBQE9mZmdtLPdNzw1AaARArJGAKCBl7nTjGIqRecQ8j8/xhAE37FjugCff1mh
+oJTtuyjf3Cr9wuG64MhAYVk=
+=oAH0
+-----END PGP SIGNATURE-----

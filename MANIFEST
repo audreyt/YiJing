@@ -1,0 +1,10 @@
+MANIFEST			This list of files
+Makefile.PL
+README
+SIGNATURE
+YiJing.pm
+YiJing/0x0c.pod
+YiJing/0x29.pod
+YiJing/0x3b.pod
+YiJing/0x3f.pod
+t/YiJing.t
