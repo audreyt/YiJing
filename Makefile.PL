@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
-# $File: //member/autrijus/Term-ANSIScreen/README $ $Author: autrijus $
-# $Revision: #1 $ $Change: 701 $ $DateTime: 2002/08/17 22:45:49 $
+# $File: //member/autrijus/YiJing/Makefile.PL $ $Author: autrijus $
+# $Revision: #1 $ $Change: 1130 $ $DateTime: 2002/10/02 01:57:45 $
 
 use ExtUtils::MakeMaker;
 

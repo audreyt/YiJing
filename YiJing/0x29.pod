@@ -4,14 +4,13 @@ YiJing::0x29 - Yi\ (Winnage)
 
 =head1 DESCRIPTION
 
-# XXX
+"Submit it, compile it, run it, ship it!  You can fix any bugs later."
 
 =head2 Judgment
 
     益：利有攸往，利涉大川。
 
-Publish it, release it, submit it, compile it, run it, ship it.
-You can fix any bugs later.
+# XXX
 
 =head2 Interpretation
 
@@ -25,9 +24,14 @@ You can fix any bugs later.
 
     象曰。風雷。益。君子以見善則遷。有過則改。
 
-# XXX
+With Data and Passion
+you are on the way to Winnage.
+Wise hackers are glad to implement good features,
+and fix uncovered bugs.
 
 =head2 Lines
+
+# XXX
 
 =over 4
 
@@ -43,35 +47,35 @@ Absolute success, starting now
     六二。或益之。十朋之龜弗克違。永貞吉。王用享于帝。吉。
     象曰。或益之。自外來也。
 
-Bonus earned
+Bonus earned.
 
 =item *
 
     六三。益之用凶事。無咎。有孚中行。告公用圭。
     象曰。益用凶事。固有之也。
 
-Disastrous bug, impressive fix
+Disastrous bug, impressive fix.
 
 =item *
 
     六四。中行。告公從。利用為依遷國。
     象曰。告公從。以益志也。
 
-Worthwhile interruption
+Worthwhile interruption.
 
 =item *
 
     九五。有孚惠心。勿問元吉。有孚惠我德。
     象曰。有孚惠心。勿問之矣。惠我德。大得志也。
 
-Unspoken trust
+Unspoken trust.
 
 =item *
 
     上九。莫益之。或擊之。立心勿恆。凶。
     象曰。莫益之。偏辭也。或擊之。自外來也。
 
-Hazardous unpopularity
+Hazardous unpopularity.
 
 =back
 

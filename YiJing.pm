@@ -1,8 +1,8 @@
-# $File: //member/autrijus/Term-ANSIScreen/README $ $Author: autrijus $
-# $Revision: #1 $ $Change: 701 $ $DateTime: 2002/08/17 22:45:49 $
+# $File: //member/autrijus/YiJing/YiJing.pm $ $Author: autrijus $
+# $Revision: #2 $ $Change: 1147 $ $DateTime: 2002/10/03 07:32:47 $
 
 package YiJing;
-$YiJing::VERSION = '0.01';
+$YiJing::VERSION = '0.02';
 
 "No blame."
 
@@ -48,7 +48,7 @@ __END__
     ----------------------------------------------------------------
     0x10 | Sui/         | Follower                | 隨   | 跟從者
     0x11 | Gu\/         | Web Crawler             | 蠱   | 索引程式
-    0x12 | Lin/         | Real Soon Now           | 臨   | 接近
+    0x12 | Lin/         | Real Soon Now           | 臨   | 迫在眉睫
     0x13 | Guan         | Viewpoint               | 觀   | 觀點
     0x14 | Shi/ Ke      | Bite the Bullet         | 噬嗑 | 裁決
     0x15 | Ben          | Artwork                 | 賁   | 美工
@@ -70,11 +70,11 @@ __END__
     0x24 | Jia Ren/     | Family                  | 家人 | 家庭
     0x25 | Kui/         | Opposition              | 睽   | 敵對
     0x26 | Jian\/       | Obstruction             | 蹇   | 阻礙
-    0x27 | Jie\/        | Solving                 | 解   | 解開
+    0x27 | Jie\/        | Eureka!                 | 解   | 頓悟
     0x28 | Sun\/        | Lossage                 | 損   | 損失
     0x29 | Yi\          | Winnage                 | 益   | 得益
     0x2a | Guai\        | Decision                | 夬   | 決斷
-    0x2b | Gou\         | Meeting                 | 姤   | 開會
+    0x2b | Gou\         | Conference              | 姤   | 會議
     0x2c | Cui\         | Integration             | 萃   | 整合
     0x2d | Sheng        | Uploading               | 升   | 上載
     0x2e | Kun\         | Trapped                 | 困   | 陷入困境
@@ -84,11 +84,11 @@ __END__
     0x31 | Ding\/       | Magic Cauldron          | 鼎   | 魔法鍋
     0x32 | Zhen\        | The Outburst            | 震   | 爆發力
     0x33 | Gen\         | The Compliance          | 艮   | 符合標準
-    0x34 | Jian\        | Step-by-step            | 漸   | 一步步
+    0x34 | Jian\        | Step by Step            | 漸   | 一步步
     0x35 | Gui Mei\     | Acquisition             | 歸妹 | 購併
-    0x36 | Feng         | Fat Pipe                | 豐   | 寬頻
+    0x36 | Feng         | Digital Abundance       | 豐   | 不虞匱乏
     0x37 | Lyu\/        | Teamwork                | 旅   | 工作團隊
-    0x38 | Xun\         | The Data Stream         | 巽   | 資料串流
+    0x38 | Xun\         | The Data Flow           | 巽   | 資料流
     0x39 | Dui\         | The Caffeine            | 兌   | 咖啡因
     0x3a | Huan\        | Blowing Up              | 渙   | 搞砸
     0x3b | Jie/         | Censorship              | 節   | 言論管制
@@ -99,7 +99,12 @@ __END__
 
 =head1 SEE ALSO
 
-L<YiJing::0x01> ... L<YiJing::0x3f>
+L<YiJing::0x0c>,
+L<YiJing::0x11>,
+L<YiJing::0x29>,
+L<YiJing::0x38>,
+L<YiJing::0x3b>,
+L<YiJing::0x3f>.
 
 =head1 AUTHORS
 

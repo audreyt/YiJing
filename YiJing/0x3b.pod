@@ -10,7 +10,7 @@ YiJing::0x3b - Jie/ (Censorship)
 
     節。亨。苦節不可貞。
 
-# XXX
+Harsh censorship can never last long.
 
 =head2 Interpretation
 
@@ -18,20 +18,27 @@ YiJing::0x3b - Jie/ (Censorship)
           說以行險，當位以節，中正以通。天地節而四時成，
 	  節以制度，不傷財，不害民。
 
-Censorship is funny; it splits the rigid and the flexible people, and
-tries to satisfy the rigid one. Draconian censorships will not bring anybody
-good, because their days are coming to an end.
+Censorship is funny; it splits the rigid people from flexible folks, and
+tries to satisfy the rigid ones. Draconian censorships will not bring
+anybody good, because their days are coming to an end.
 
 It's a sensitive topic; the government officials should take care, and
-choose the middle path. Like how heaven and earth moderates the four
-seasons, censorship systems should be balanced, and never damage business
-or hurt civil liberty.
+choose the middle path.  Like how heaven and earth moderates the four
+seasons, censorship systems should be balanced, and never damage
+business or hurt civil liberty.
 
 =head2 Image
 
     象曰。澤上有水。節。君子以制數度。議德行。
 
+Deep consideration is needed
+when talking about censorship.
+Regulations should be used to promote balance
+and encourage ethical behaviour.
+
 =head2 Lines
+
+# XXX
 
 =over 4
 
