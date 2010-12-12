@@ -1,12 +1,11 @@
-# $File: //member/autrijus/YiJing/YiJing.pm $ $Author: autrijus $
-# $Revision: #2 $ $Change: 1147 $ $DateTime: 2002/10/03 07:32:47 $
-
 package YiJing;
-$YiJing::VERSION = '0.02';
+$YiJing::VERSION = '0.10';
 
 "No blame."
 
 __END__
+
+=encoding utf-8
 
 =head1 NAME
 
@@ -15,6 +14,7 @@ __END__
 =head1 SYNOPSIS
 
     # This is a book, not a module.
+    # It may some day turn into a module for divination, though.
 
 =head1 THE TRIGRAMS
 
@@ -109,12 +109,13 @@ L<YiJing::0x3f>.
 =head1 AUTHORS
 
 Sean M. Burke C<sburke@cpan.org>,
-Autrijus Tang E<lt>autrijus@autrijus.orgE<gt>
+唐鳳 E<lt>cpan@audreyt.orgE<gt>
 
 =head1 COPYRIGHT
 
-Copyright 2002 by Sean M. Burke C<sburke@cpan.org>,
-		  Autrijus Tang E<lt>autrijus@autrijus.orgE<gt>.
+Copyright 2002-2010
+by Sean M. Burke C<sburke@cpan.org>,
+唐鳳 E<lt>cpan@audreyt.orgE<gt>.
 
 All rights reserved.  You can redistribute and/or modify
 this bundle under the same terms as Perl itself.

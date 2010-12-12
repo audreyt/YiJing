@@ -1,20 +1,10 @@
 #!/usr/bin/env perl
-# $File: //member/autrijus/YiJing/Makefile.PL $ $Author: autrijus $
-# $Revision: #1 $ $Change: 1130 $ $DateTime: 2002/10/02 01:57:45 $
+use inc::Module::Install::DSL;
 
-use ExtUtils::MakeMaker;
+name            YiJing
+all_from        lib/YiJing.pm
+readme_from     lib/YiJing.pm
+repository      http://github.com/audreyt/YiJing
 
-WriteMakefile (
-    AUTHOR		=> 'Autrijus Tang (autrijus@autrijus.org)',
-    ABSTRACT		=> 'The Book Of Change',
-    NAME		=> 'YiJing',
-    VERSION_FROM	=> 'YiJing.pm',
-    DISTNAME		=> 'YiJing',
-    BINARY_LOCATION	=> 'x86/YiJing.tar.gz',
-
-    dist		=> {
-        COMPRESS	=> 'gzip -9',
-        SUFFIX		=> '.gz',
-    },
-);
-
+sign
+WriteAll
