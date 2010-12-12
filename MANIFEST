@@ -1,12 +1,22 @@
-MANIFEST			This list of files
+inc/Module/Install.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/DSL.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/ReadmeFromPod.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+lib/YiJing.pm
+lib/YiJing/0x0c.pod
+lib/YiJing/0x11.pod
+lib/YiJing/0x29.pod
+lib/YiJing/0x38.pod
+lib/YiJing/0x3b.pod
+lib/YiJing/0x3f.pod
 Makefile.PL
+MANIFEST			This list of files
+META.yml
 README
-SIGNATURE
-YiJing.pm
-YiJing/0x0c.pod
-YiJing/0x11.pod
-YiJing/0x29.pod
-YiJing/0x38.pod
-YiJing/0x3b.pod
-YiJing/0x3f.pod
 t/YiJing.t

@@ -1,3 +1,4 @@
+use 5.005;
 package YiJing;
 $YiJing::VERSION = '0.10';
 
